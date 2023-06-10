@@ -6,7 +6,7 @@
   "author": "TISTORY <tistoryblog@daum.net>",
   "dependencies": {
     "docz": "^2.2.0",
-    "gatsby": "^2.18.17",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.37",
     "gatsby-plugin-manifest": "^2.2.34",
     "gatsby-plugin-offline": "^3.0.30",
